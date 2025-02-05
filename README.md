@@ -12,7 +12,7 @@ Hi! My name is Aayush Dubey 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aayush-dubey-1a0d/">
+  <a href="https://www.linkedin.com/in/aaydube/">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
