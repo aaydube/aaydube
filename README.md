@@ -6,7 +6,9 @@ Hi! My name is Aayush Dubey 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,redux,firebase,supabase,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,tailwind,nodejs,express)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,postman,redux,firebase,supabase,python)](https://skillicons.dev)
 <br/>
 
 ### Socials
